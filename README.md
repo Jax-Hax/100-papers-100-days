@@ -62,3 +62,5 @@ I read a paper every day for 100 days, documenting them here.
 - https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html
 - https://www.fast.ai/posts/2018-08-10-fastai-diu-imagenet.html
 - Mixup, Cutmix, RandAugment, Random Erasing, and regularization scehemes like Stochastic Depth and Label Smoothing
+- Inverted bottleneck
+- BatchNorm vs LayerNorm
