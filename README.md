@@ -36,7 +36,7 @@ I read a paper every day for 100 days, documenting them here.
 - Day 26 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 ### Autoregressive Model
 - Day 27 - [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
-
+### More famous papers
 - Day 28 - [Greedy function approximation: A gradient boosting machine.](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.full)
 - Day 29 - [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)
 - Day 30 - [Random Forests](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.125.5395)
