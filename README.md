@@ -58,3 +58,7 @@ I read a paper every day for 100 days, documenting them here.
 - ViTs (Vision Transformers)
 - Statistics (PCA, fisher vectors and fisher kernels, boltzmann machines)
 - SIFT+FV networks
+- GELUs and other activation functions
+- https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html
+- https://www.fast.ai/posts/2018-08-10-fastai-diu-imagenet.html
+- Mixup, Cutmix, RandAugment, Random Erasing, and regularization scehemes like Stochastic Depth and Label Smoothing
