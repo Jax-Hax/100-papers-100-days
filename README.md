@@ -48,3 +48,13 @@ I read a paper every day for 100 days, documenting them here.
 - Day 36 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html)
 - Day 37 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
 - Day 38 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815)
+
+
+
+# Other things to read  
+- Reinforcement learning papers
+- NLP papers
+- Ethics papers
+- ViTs (Vision Transformers)
+- Statistics (PCA, fisher vectors and fisher kernels, boltzmann machines)
+- SIFT+FV networks
