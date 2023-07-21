@@ -48,7 +48,9 @@ I read a paper every day for 100 days, documenting them here.
 - Day 36 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.html)
 - Day 37 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
 - Day 38 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815)
-
+- Day 39 - [Torch: A modular machine learning software library](https://publications.idiap.ch/attachments/reports/2002/rr02-46.pdf)
+- Day 40 - [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
+- Day 41 - [TensorFlow: A system for large-scale machine learning](https://research.google/pubs/pub45381/)
 
 
 # Other things to read  
