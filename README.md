@@ -51,6 +51,11 @@ I read a paper every day for 100 days, documenting them here.
 - Day 39 - [Torch: A modular machine learning software library](https://publications.idiap.ch/attachments/reports/2002/rr02-46.pdf)
 - Day 40 - [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
 - Day 41 - [TensorFlow: A system for large-scale machine learning](https://research.google/pubs/pub45381/)
+- Day 42 - [Experiments on Learning by Back Propagation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.878&rep=rep1&type=pdf)
+- Day 43 - [Support Vector Networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.9362&rep=rep1&type=pdf) maybe idk this one's a bit old
+- Day 44 - [Latent Dirichlet Allocation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.7000&rep=rep1&type=pdf) maybe idk this one's a bit old
+- Day 45 - [Statistical Modeling: The Two Cultures](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.4933&rep=rep1&type=pdf)
+
 
 
 # Other things to read  
@@ -66,3 +71,8 @@ I read a paper every day for 100 days, documenting them here.
 - Mixup, Cutmix, RandAugment, Random Erasing, and regularization scehemes like Stochastic Depth and Label Smoothing
 - Inverted bottleneck
 - BatchNorm vs LayerNorm
+- https://www.reddit.com/r/MachineLearning/comments/hj4cx/comment/c1vt6ny/
+- Bishop's Pattern Recognition and Machine Learning
+- http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
+- Statistical Pattern Recognition by Andrew Webb
+- Programming Collective Intelligence
