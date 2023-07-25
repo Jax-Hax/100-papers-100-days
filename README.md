@@ -10,6 +10,9 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. ⭐[Improving Language Understanding by Generative Pre-Training (GPT 1)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 1. [Language Models are Unsupervised Multitask Learners (GPT 2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 1. [Language Models are Few-Shot Learners (GPT 3)](https://arxiv.org/abs/2005.14165)
+2. [Character-Level Language Modeling with Deeper Self-Attention](https://arxiv.org/abs/1808.04444)
+3. [Layer normalization](https://arxiv.org/abs/1607.06450)
+4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 1. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 1. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 1. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
@@ -56,7 +59,8 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. [Latent Dirichlet Allocation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.7000&rep=rep1&type=pdf) maybe idk this one's a bit old
 1. [Statistical Modeling: The Two Cultures](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.4933&rep=rep1&type=pdf)
 1. [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
-
+2. [A Fast Learning Algorithm for Deep Belief Nets](https://www.cs.utoronto.ca/~hinton/absps/ncfast.pdf)
+3. [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 
 # Other things to read  
 - Reinforcement learning papers
