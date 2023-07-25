@@ -1,13 +1,13 @@
 # A paper per day for 100 days
-I read a paper every day for 100 days, documenting them here.
+I read a paper every day for 100 days, documenting them here. A ⭐ means that I need to come back to the paper after I know more.
 
 1. [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-1. [Attention is all you need](https://arxiv.org/abs/1706.03762)
+1. ⭐[Attention is all you need](https://arxiv.org/abs/1706.03762)
 1. [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 1. [A ConvNet for the 2020s](https://arxiv.org/pdf/2201.03545.pdf)
-1. [The Matrix Calculus you need for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
+1. ⭐[The Matrix Calculus you need for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 1. [Deepface Closing the Gap to Human-level Performance](https://research.facebook.com/file/266870805034649/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
-1. [Improving Language Understanding by Generative Pre-Training (GPT 1)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+1. ⭐[Improving Language Understanding by Generative Pre-Training (GPT 1)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 1. [Language Models are Unsupervised Multitask Learners (GPT 2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 1. [Language Models are Few-Shot Learners (GPT 3)](https://arxiv.org/abs/2005.14165)
 1. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
