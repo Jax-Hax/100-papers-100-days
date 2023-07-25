@@ -55,7 +55,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. [Support Vector Networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.9362&rep=rep1&type=pdf) maybe idk this one's a bit old
 1. [Latent Dirichlet Allocation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.7000&rep=rep1&type=pdf) maybe idk this one's a bit old
 1. [Statistical Modeling: The Two Cultures](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.4933&rep=rep1&type=pdf)
-
+1. [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 
 
 # Other things to read  
