@@ -22,13 +22,10 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 1. [A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.8918)
 1. [Bagging Predictors](https://link.springer.com/article/10.1023/A:1018054314350)
-# Brief image generating model section
-### GANs (first state of the art)
 1. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 1. [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
 1. [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 1. [Generative Adversarial Networks (the original paper)](https://arxiv.org/abs/1406.2661)
-### Diffusion Models
 1. [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
 1. [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 1. [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
@@ -37,9 +34,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 1. [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)
 1. [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
-### Autoregressive Model
 1. [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
-### More famous papers
 1. [Greedy function approximation: A gradient boosting machine.](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.full)
 1. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)
 1. [Random Forests](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.125.5395)
