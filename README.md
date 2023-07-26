@@ -62,6 +62,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 2. [A Fast Learning Algorithm for Deep Belief Nets](https://www.cs.utoronto.ca/~hinton/absps/ncfast.pdf)
 3. [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 4. [Subject-Diffusion](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)
+5. [Generating long sequences with sparse transformers](https://arxiv.org/abs/1904.10509)
 
 # Other things to read  
 - Reinforcement learning papers
