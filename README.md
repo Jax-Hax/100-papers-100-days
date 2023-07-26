@@ -63,6 +63,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 3. [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 4. [Subject-Diffusion](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)
 5. [Generating long sequences with sparse transformers](https://arxiv.org/abs/1904.10509)
+6. [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482)
 
 # Other things to read  
 - Reinforcement learning papers
