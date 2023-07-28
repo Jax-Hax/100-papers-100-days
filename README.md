@@ -83,3 +83,4 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 - http://alumni.media.mit.edu/~tpminka/statlearn/glossary/
 - Statistical Pattern Recognition by Andrew Webb
 - Programming Collective Intelligence
+- https://www.d2l.ai/
