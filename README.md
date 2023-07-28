@@ -11,7 +11,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 1. ⭐[Language Models are Unsupervised Multitask Learners (GPT 2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 1. [Language Models are Few-Shot Learners (GPT 3)](https://arxiv.org/abs/2005.14165)
 2. ❌[Character-Level Language Modeling with Deeper Self-Attention](https://arxiv.org/abs/1808.04444)
-3. [Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/abs/1912.05911)
+3. ⭐[Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/abs/1912.05911)
 4. [Layer normalization](https://arxiv.org/abs/1607.06450)
 5. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 1. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
