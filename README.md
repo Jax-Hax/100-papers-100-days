@@ -60,6 +60,8 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 4. [Subject-Diffusion](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)
 5. [Generating long sequences with sparse transformers](https://arxiv.org/abs/1904.10509)
 6. [Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](https://arxiv.org/abs/1904.09482)
+7. [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
+8. [Dynamic Evaluation of Neural Sequence Models](https://arxiv.org/abs/1709.07432)
 
 # Other things to read  
 - Reinforcement learning papers
