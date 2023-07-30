@@ -16,6 +16,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 5. [Layer normalization](https://arxiv.org/abs/1607.06450)
 6. [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+8. [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
 1. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 1. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 1. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
