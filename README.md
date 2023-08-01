@@ -68,6 +68,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 9. [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 10. [FlashAttention](https://arxiv.org/abs/2205.14135)
 11. [FlashAttention 2](https://tridao.me/publications/flash2/flash2.pdf)
+12. [SpikeGPT](https://arxiv.org/abs/2302.13939)
 
 # Other things to read  
 - Reinforcement learning papers
