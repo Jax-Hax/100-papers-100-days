@@ -13,6 +13,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 2. ❌[Character-Level Language Modeling with Deeper Self-Attention](https://arxiv.org/abs/1808.04444)
 3. ⭐[Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/abs/1912.05911)
 4. ⭐[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+5. [Pytorch](https://arxiv.org/pdf/1912.01703.pdf)
 1. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 1. [Pointer networks](https://arxiv.org/abs/1506.03134)
 1. [Layer normalization](https://arxiv.org/abs/1607.06450)
