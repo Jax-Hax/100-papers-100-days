@@ -16,6 +16,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 6. [Pytorch](https://arxiv.org/pdf/1912.01703.pdf)
 5. [DIFFEDIT: DIFFUSION-BASED SEMANTIC IMAGE EDITING WITH MASK GUIDANCE](https://arxiv.org/pdf/2210.11427.pdf)
 6. [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
+7. [RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE](https://robotics-transformer.github.io/assets/rt1.pdf)
 1. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 1. [Pointer networks](https://arxiv.org/abs/1506.03134)
 1. [Layer normalization](https://arxiv.org/abs/1607.06450)
