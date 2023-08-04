@@ -73,6 +73,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 12. [FlashAttention 2](https://tridao.me/publications/flash2/flash2.pdf)
 13. [SpikeGPT](https://arxiv.org/abs/2302.13939)
 14. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+15. [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399)
 
 # Other things to read  
 - Reinforcement learning papers
