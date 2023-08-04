@@ -75,6 +75,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 13. [SpikeGPT](https://arxiv.org/abs/2302.13939)
 14. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
 15. [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399)
+16. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 # Other things to read  
 - Reinforcement learning papers
