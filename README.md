@@ -80,6 +80,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 18. [DeepSpeed Chat](https://arxiv.org/pdf/2308.01320.pdf)
 19. [MusicGen](https://arxiv.org/abs/2306.05284)
 20. [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf)
+21. [PaLI-X: On Scaling up a Multilingual Vision and Language Model](https://arxiv.org/abs/2305.18565)
 
 # Other things to read  
 - Reinforcement learning papers
