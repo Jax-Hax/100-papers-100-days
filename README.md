@@ -82,6 +82,7 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 20. [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf)
 21. [PaLI-X: On Scaling up a Multilingual Vision and Language Model](https://arxiv.org/abs/2305.18565)
 22. [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
+23. [Image Transformer](https://arxiv.org/abs/1802.05751)
 
 # Other things to read  
 - Reinforcement learning papers
