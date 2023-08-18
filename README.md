@@ -13,10 +13,19 @@ I read a paper every day for 100 days, documenting them here. A ⭐ means that I
 2. ❌[Character-Level Language Modeling with Deeper Self-Attention](https://arxiv.org/abs/1808.04444)
 3. ⭐[Recurrent Neural Networks (RNNs): A gentle Introduction and Overview](https://arxiv.org/abs/1912.05911)
 4. ⭐[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
-6. [Pytorch](https://arxiv.org/pdf/1912.01703.pdf)
+6. ❌[Pytorch](https://arxiv.org/pdf/1912.01703.pdf)
 5. [DIFFEDIT: DIFFUSION-BASED SEMANTIC IMAGE EDITING WITH MASK GUIDANCE](https://arxiv.org/pdf/2210.11427.pdf)
-6. [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
-7. [RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE](https://robotics-transformer.github.io/assets/rt1.pdf)
+6. ⭐[RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
+7. ⭐[RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE](https://robotics-transformer.github.io/assets/rt1.pdf)
+
+I need to understand what all this is for, so I'm going to start reading more recent papers first and go back to the older ones once I've got a grasp of the current AI landscape. I'm also going to write a quick summary of my thoughts in a md file in this repo.
+
+1.[Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://arxiv.org/pdf/2308.07317v1.pdf)
+
+
+
+
+
 1. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 1. [Pointer networks](https://arxiv.org/abs/1506.03134)
 1. [Layer normalization](https://arxiv.org/abs/1607.06450)
